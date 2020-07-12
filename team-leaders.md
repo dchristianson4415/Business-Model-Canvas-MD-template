@@ -1,9 +1,9 @@
-# Team Leader
+# Makayla Nix: Chief Executive Officer
 
-* T0: (add name)
-* T1: (add name)
-* T2: (add name)
-* T3: (add name)
-* T4: (add name)
-* T5: (add name)
-* T6: (add name)
+* Makayla Nix: Chief Executive Officer
+* Dan Hoang: Chief Operating Officer
+* Sweta Kc: Chief Information Officer
+* Jason Perdew: Chief Marketing Officer
+* Jacob Hemmerich: Chief Compliance Officer
+* David Christianson: Chief Financial Officer
+
